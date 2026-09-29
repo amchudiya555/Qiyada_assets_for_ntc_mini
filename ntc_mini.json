@@ -1,0 +1,15 @@
+{
+  "title": "NTC-Mini Overview",
+  "tagline": "Compact, Elegant & Reliable Prayer Clock",
+  "image_url": "https://raw.githubusercontent.com/amchudiya555/qiyada-assets/main/ntc_mini.jpeg",
+  "features": [
+    "Precise Local Namaz Timings Calculation",
+    "Auto & Manual Location Configuration",
+    "Pre-Fajr Alarm & Bismillah Greetings",
+    "Direct Hotspot & Router Dual Connectivity"
+  ],
+  "firmware": {
+    "version": "1.0.1",
+    "bin_url": "https://raw.githubusercontent.com/amchudiya555/qiyada-firmware/main/ntc_mini_v1.0.1.bin"
+  }
+}
