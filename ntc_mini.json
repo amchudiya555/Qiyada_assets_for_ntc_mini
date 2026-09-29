@@ -3,22 +3,16 @@
   "tagline": "Compact, Elegant & Reliable Prayer Clock",
   "image_url": "https://raw.githubusercontent.com/amchudiya555/Qiyada_assets_for_ntc_mini/main/ntc_mini_image.jpeg",
   "features": [
-    "Precise Local Namaz Timings",
-    "Auto & Manual Location Configuration",
-    "Pre-Fajr Alarm & Bismillah Greetings",
-    "Direct Hotspot & Router Dual Connectivity"
-  ],
-  "highlights": [
-    "Premium Finish",
-    "Automatic Updating prayer times according to your location",
-    "Shafi or Hanafi preferences",
-    "Azan and sound alerts",
-    "6 events display",
-    "Wi-Fi and app controls"
+    "Premium craftsmanship with an elegant finish",
+    "Precise local prayer times calculation with auto & manual location settings",
+    "Flexible jurisprudence preferences supporting both Shafi and Hanafi methods",
+    "Customizable Azan audio alerts and 6 key event displays",
+    "Seamless dual connectivity via local Hotspot and Wi-Fi router with full mobile app control",
+    "Pre-Fajr intelligent alarms and traditional Bismillah welcome greetings"
   ],
   "technicals": {
-    "Operating Voltage": "180-240V A.C.",
-    "Power": "5 Watt",
+    "Operating Voltage": "180–240V A.C.",
+    "Power Consumption": "5 Watt",
     "Frequency": "50/60 Hz"
   },
   "firmware": {
