@@ -8,6 +8,19 @@
     "Pre-Fajr Alarm & Bismillah Greetings",
     "Direct Hotspot & Router Dual Connectivity"
   ],
+  "highlights": [
+    "Premium Finish",
+    "Automatic Updating prayer times according to your location",
+    "Shafi or Hanafi preferences",
+    "Azan and sound alerts",
+    "6 events display",
+    "Wi-Fi and app controls"
+  ],
+  "technicals": {
+    "Operating Voltage": "180-240V A.C.",
+    "Power": "5 Watt",
+    "Frequency": "50/60 Hz"
+  },
   "firmware": {
     "version": "1.0.1",
     "bin_url": "https://raw.githubusercontent.com/amchudiya555/qiyada-firmware/main/ntc_mini_v1.0.1.bin"
