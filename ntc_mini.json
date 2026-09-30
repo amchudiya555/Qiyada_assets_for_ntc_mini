@@ -16,7 +16,7 @@
     "Frequency": "50/60 Hz"
   },
   "firmware": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "bin_url": "https://raw.githubusercontent.com/amchudiya555/Qiyada_assets_for_ntc_mini/main/qiyada_esp8266_test_prg.ino.bin"
   }
 }
